@@ -1,0 +1,11 @@
+scikit-learn stack (anaconda)
+nltk
+SPARQLWrapper
+ngram
+bottle
+cherrypy 8.9.1
+requests
+feedparser
+pyquery
+rdflib
+PyMySQL

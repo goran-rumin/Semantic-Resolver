@@ -1,0 +1,99 @@
+1 ['Richard', 'Burr'] {'http://www.wikidata.org/entity/Q331278', 'http://yago-knowledge.org/resource/Richard_Burr', 'http://dbpedia.org/resource/Richard_Burr'}	OK_ALL
+2 ['Senate', 'Intelligence', 'Committee'] set()	OK
+3 ['Donald', 'Trump'] {'http://www.wikidata.org/entity/Q22686', 'http://dbpedia.org/resource/Donald_Trump', 'http://yago-knowledge.org/resource/Donald_Trump'}	OK_ALL
+4 ['Barack', 'Obama'] {'http://www.wikidata.org/entity/Q76', 'http://yago-knowledge.org/resource/Barack_Obama', 'http://dbpedia.org/resource/Barack_Obama'}	OK_ALL
+5 ['Trump', 'Tower'] {'http://dbpedia.org/resource/Trump_World_Tower', 'http://www.wikidata.org/entity/Q7847783', 'http://www.wikidata.org/entity/Q844324'}	OK
+6 ['White', 'House'] {'http://www.wikidata.org/entity/Q2566904', 'http://yago-knowledge.org/resource/White_House_press_corps', 'http://www.wikidata.org/entity/Q9287183', 'http://dbpedia.org/resource/White_House_Office'}	OK
+7 ['Sean', 'Spicer'] {'http://www.wikidata.org/entity/Q27829251'}	OK_ALL
+8 ['Republican'] {'http://dbpedia.org/resource/Spanish_Republican_Air_Force', 'http://yago-knowledge.org/resource/Republican_Party_(United_States)', 'http://www.wikidata.org/entity/Q653821'}	OK
+9 ['Britain'] {'http://www.wikidata.org/entity/Q690213', 'http://www.wikidata.org/entity/Q23666', 'http://dbpedia.org/resource/Great_Britain', 'http://yago-knowledge.org/resource/United_Kingdom'}	OK
+10 ['GCHQ'] set()	OK
+11 ['US'] {'http://dbpedia.org/resource/Buus', 'http://www.wikidata.org/entity/Q66325', 'http://yago-knowledge.org/resource/Egypt'}	NOT_OK
+12 ['White', 'House', 'Press'] {'http://www.wikidata.org/entity/Q7994903', 'http://yago-knowledge.org/resource/White_House_press_corps', 'http://dbpedia.org/resource/White_House_Office_of_the_Press_Secretary'}	OK_ALL
+13 ['Fox', 'News'] {'http://dbpedia.org/resource/Fox_News_Channel', 'http://www.wikidata.org/entity/Q186068'}	OK_ALL
+14 ['New', 'York'] {'http://yago-knowledge.org/resource/New_York_City', 'http://www.wikidata.org/entity/Q1251262', 'http://www.wikidata.org/entity/Q1384', 'http://dbpedia.org/resource/New_York'}	OK
+15 ['Senate'] {'http://dbpedia.org/resource/New_York_State_Senate', 'http://www.wikidata.org/entity/Q3510840', 'http://www.wikidata.org/entity/Q1722258', 'http://yago-knowledge.org/resource/Senate_(Netherlands)'}	NOT_OK
+16 ['Andrew', 'Napolitano'] {'http://dbpedia.org/resource/Andrew_Napolitano', 'http://www.wikidata.org/entity/Q465511', 'http://yago-knowledge.org/resource/Andrew_Napolitano'}	OK_ALL
+17 ['Obama'] {'http://www.wikidata.org/entity/Q76', 'http://yago-knowledge.org/resource/Barack_Obama', 'http://dbpedia.org/resource/Barack_Obama'}	OK_ALL
+18 ['Westminster', 'Bridge'] {'http://www.wikidata.org/entity/Q456960', 'http://dbpedia.org/resource/Westminster_Bridge'}	OK_ALL
+19 ['Parliament', 'Square'] set()	OK
+20 ['Mark', 'Rowley'] {'http://www.wikidata.org/entity/Q15990160', 'http://yago-knowledge.org/resource/Mark_Rowley'}	OK_ALL
+21 ['Thames'] {'http://www.wikidata.org/entity/Q7709854', 'http://yago-knowledge.org/resource/River_Thames', 'http://www.wikidata.org/entity/Q19686', 'http://dbpedia.org/resource/River_Thames'}	OK
+22 ['Whitehall'] {'http://www.wikidata.org/entity/Q7995966', 'http://www.wikidata.org/entity/Q7995968', 'http://yago-knowledge.org/resource/Baldwin-Whitehall_School_District', 'http://dbpedia.org/resource/Whitehall-Yearling_High_School'}	NOT_OK
+23 ['Lambeth', 'Bridge'] {'http://dbpedia.org/resource/Lambeth_Bridge', 'http://www.wikidata.org/entity/Q1130666'}	OK_ALL
+24 ['Victoria', 'Street'] {'http://www.wikidata.org/entity/Q18001617', 'http://yago-knowledge.org/resource/The_Venue_(Victoria_Street,_London)', 'http://www.wikidata.org/entity/Q3938308', 'http://dbpedia.org/resource/Victoria_Street,_Melbourne'}	NOT_OK
+25 ['Broadway'] {'http://www.wikidata.org/entity/Q18386023', 'http://yago-knowledge.org/resource/Broadway,_Worcestershire', 'http://dbpedia.org/resource/26_Broadway', 'http://www.wikidata.org/entity/Q762816'}	NOT_OK
+26 ['Syria'] {'http://yago-knowledge.org/resource/Syria', 'http://dbpedia.org/resource/Syria', 'http://www.wikidata.org/entity/Q207118', 'http://www.wikidata.org/entity/Q858'}	OK
+27 ['Damascus'] {'http://yago-knowledge.org/resource/Damascus', 'http://www.wikidata.org/entity/Q754122', 'http://dbpedia.org/resource/Damascus', 'http://www.wikidata.org/entity/Q3766'}	OK
+28 ['Mowaffak', 'Joumaa'] set()	OK
+29 ['Kuala', 'Lumpur'] {'http://www.wikidata.org/entity/Q1865', 'http://dbpedia.org/resource/Kuala_Lumpur', 'http://yago-knowledge.org/resource/Kuala_Lumpur'}	OK_ALL
+30 ['Real', 'Madrid'] {'http://yago-knowledge.org/resource/Real_Madrid_C.F.', 'http://www.wikidata.org/entity/Q7300983', 'http://dbpedia.org/resource/Real_Madrid_C.F.'}	OK
+31 ['Zidane'] {'http://www.wikidata.org/entity/Q7110456', 'http://yago-knowledge.org/resource/Ouled_Zidane', 'http://dbpedia.org/resource/Ouled_Zidane'}	NOT_OK
+32 ['Ronaldo'] {'http://www.wikidata.org/entity/Q529207', 'http://yago-knowledge.org/resource/Ronaldo', 'http://dbpedia.org/resource/Ronaldo'}	OK_ALL
+33 ['House', 'Intelligence', 'Committee'] {'http://yago-knowledge.org/resource/United_States_House_Intelligence_Subcommittee_on_Oversight'}	OK_ALL
+34 ['Devin', 'Nunes'] {'http://yago-knowledge.org/resource/Devin_Nunes', 'http://www.wikidata.org/entity/Q539493', 'http://dbpedia.org/resource/Devin_Nunes'}	OK_ALL
+35 ['Office', 'of', 'Congressional'] {'http://yago-knowledge.org/resource/Office_of_Congressional_Ethics'}	OK_ALL
+36 ['Citizens', 'for', 'Responsibility', 'and', 'Ethics'] {'http://dbpedia.org/resource/Citizens_for_Responsibility_and_Ethics_in_Washington', 'http://www.wikidata.org/entity/Q569743'}	OK_ALL
+37 ['Washington'] {'http://dbpedia.org/resource/Washington,_D.C.', 'http://www.wikidata.org/entity/Q1026008', 'http://yago-knowledge.org/resource/Washington,_D.C.', 'http://www.wikidata.org/entity/Q61'}	OK
+38 ['Trump'] {'http://dbpedia.org/resource/Trump_SoHo', 'http://yago-knowledge.org/resource/Trumpington,_Cambridgeshire', 'http://www.wikidata.org/entity/Q7847781'}	NOT_OK
+39 ['Turkey'] {'http://dbpedia.org/resource/Turkey', 'http://yago-knowledge.org/resource/Turkey', 'http://www.wikidata.org/entity/Q43'}	OK_ALL
+40 ['Anadolu'] {'http://dbpedia.org/resource/Anadolubank', 'http://www.wikidata.org/entity/Q26237889', 'http://yago-knowledge.org/resource/Anadolu_Efes_S.K.', 'http://www.wikidata.org/entity/Q4750773'}	NOT_OK
+41 ['Republican', 'People', "'s", 'Party'] set()	OK
+42 ['CHP'] {'http://www.wikidata.org/entity/Q5011283', 'http://yago-knowledge.org/resource/Microchip_Technology', 'http://dbpedia.org/resource/CHPQ-FM'}	NOT_OK
+43 ['Justice', 'and', 'Development', 'Party'] {'http://www.wikidata.org/entity/Q19077', 'http://dbpedia.org/resource/Justice_and_Development_Party_(Turkey)'}	OK_ALL
+44 ['Recep', 'Tayyip', 'Erdogan'] {'http://yago-knowledge.org/resource/Recep_Tayyip_Erdoğan'}	OK_ALL
+45 ['Binali', 'Yildirim'] set()	OK
+46 ['Bulent', 'Tezcan'] set()	OK
+47 ['European', 'Court', 'of', 'Human', 'Rights'] {'http://www.wikidata.org/entity/Q122880', 'http://yago-knowledge.org/resource/European_Court_of_Human_Rights'}	OK_ALL
+48 ['High', 'Election', 'Board'] set()	OK
+49 ['Istanbul'] {'http://www.wikidata.org/entity/Q406', 'http://dbpedia.org/resource/Istanbul', 'http://yago-knowledge.org/resource/Istanbul'}	OK_ALL
+50 ['Abdurrahman', 'Atalay'] set()	OK
+51 ['Aaron', 'Hernandez'] {'http://yago-knowledge.org/resource/Aaron_Hernandez', 'http://dbpedia.org/resource/Aaron_Hernandez', 'http://www.wikidata.org/entity/Q302091'}	OK_ALL
+52 ['NFL'] {'http://yago-knowledge.org/resource/NFL_Europe', 'http://dbpedia.org/resource/WNFL', 'http://www.wikidata.org/entity/Q7953357'}	NOT_OK
+53 ['Odin', 'Lloyd'] {'http://www.wikidata.org/entity/Q15306405', 'http://yago-knowledge.org/resource/Odin_Lloyd', 'http://dbpedia.org/resource/Murder_of_Odin_Lloyd'}	OK_ALL
+54 ['Bristol'] {'http://yago-knowledge.org/resource/Bristol', 'http://dbpedia.org/resource/Bristol', 'http://www.wikidata.org/entity/Q23154'}	NOT_OK
+55 ['Connecticut'] {'http://www.wikidata.org/entity/Q779', 'http://dbpedia.org/resource/Connecticut', 'http://yago-knowledge.org/resource/Connecticut'}	OK_ALL
+56 ['Bob', 'Montgomery'] {'http://www.wikidata.org/entity/Q4933433', 'http://www.wikidata.org/entity/Q259186', 'http://dbpedia.org/resource/Bob_Montgomery_(boxer)', 'http://yago-knowledge.org/resource/Bob_Montgomery_(boxer)'}	NOT_OK
+57 ['Bristol', 'Press'] set()	OK
+58 ['CNN'] {'http://yago-knowledge.org/resource/CNN', 'http://www.wikidata.org/entity/Q48340', 'http://dbpedia.org/resource/CNN'}	OK_ALL
+59 ['British', 'Parliament'] {'http://yago-knowledge.org/resource/British_Columbia_Youth_Parliament'}	NOT_OK
+60 ['Theresa', 'May'] {'http://yago-knowledge.org/resource/Theresa_May', 'http://www.wikidata.org/entity/Q264766', 'http://dbpedia.org/resource/Theresa_May'}	OK_ALL
+61 ['European', 'Union'] {'http://www.wikidata.org/entity/Q458', 'http://yago-knowledge.org/resource/European_Union'}	OK_ALL
+62 ['David', 'Cameron'] {'http://www.wikidata.org/entity/Q5232111', 'http://dbpedia.org/resource/David_Cameron', 'http://yago-knowledge.org/resource/David_Cameron', 'http://www.wikidata.org/entity/Q192'}	OK
+63 ['Conservative', 'Party'] {'http://yago-knowledge.org/resource/Conservative_Party_(UK)', 'http://www.wikidata.org/entity/Q9626', 'http://dbpedia.org/resource/Conservative_Party_(UK)', 'http://www.wikidata.org/entity/Q3354593'}	OK
+64 ['House', 'of', 'Commons'] {'http://yago-knowledge.org/resource/House_of_Commons_(South_Korea)', 'http://www.wikidata.org/entity/Q383590', 'http://dbpedia.org/resource/Irish_House_of_Commons', 'http://www.wikidata.org/entity/Q2948400'}	NOT_OK
+65 ['Labour', 'Party'] {'http://yago-knowledge.org/resource/Labour_Party_(UK)', 'http://dbpedia.org/resource/Labour_Party_(UK)', 'http://www.wikidata.org/entity/Q9630', 'http://www.wikidata.org/entity/Q275441'}	OK
+66 ['Europe'] {'http://yago-knowledge.org/resource/Ancient_Rome', 'http://dbpedia.org/resource/Europe', 'http://www.wikidata.org/entity/Q46', 'http://www.wikidata.org/entity/Q766618'}	OK
+67 ['Germany'] {'http://yago-knowledge.org/resource/Germany', 'http://dbpedia.org/resource/Germany', 'http://www.wikidata.org/entity/Q1350565', 'http://www.wikidata.org/entity/Q183'}	OK
+68 ['France'] {'http://www.wikidata.org/entity/Q142', 'http://yago-knowledge.org/resource/France', 'http://dbpedia.org/resource/France'}	OK_ALL
+69 ['European', 'Commission'] {'http://dbpedia.org/resource/Directorate-General_for_External_Relations_(European_Commission)', 'http://www.wikidata.org/entity/Q5280592', 'http://yago-knowledge.org/resource/European_Commission', 'http://www.wikidata.org/entity/Q8880'}	OK
+70 ['Brussels'] {'http://www.wikidata.org/entity/Q239', 'http://yago-knowledge.org/resource/Brussels', 'http://dbpedia.org/resource/Brussels', 'http://www.wikidata.org/entity/Q240'}	OK
+71 ['Steve', 'Stephens'] {'http://yago-knowledge.org/resource/Steve_Stephens', 'http://www.wikidata.org/entity/Q7614041'}	NOT_OK
+72 ['Cleveland'] {'http://dbpedia.org/resource/Cleveland', 'http://yago-knowledge.org/resource/Cleveland', 'http://www.wikidata.org/entity/Q37320', 'http://www.wikidata.org/entity/Q5132021'}	OK
+73 ['Facebook'] {'http://www.wikidata.org/entity/Q355', 'http://yago-knowledge.org/resource/Facebook', 'http://dbpedia.org/resource/Facebook'}	OK_ALL
+74 ['Pennsylvania'] {'http://www.wikidata.org/entity/Q1400', 'http://yago-knowledge.org/resource/Pennsylvania', 'http://dbpedia.org/resource/Pennsylvania'}	OK_ALL
+75 ['Ford', 'Fusion'] set()	OK
+76 ['McDonald'] {"http://dbpedia.org/resource/McDonald's", 'http://www.wikidata.org/entity/Q2053542', "http://yago-knowledge.org/resource/McDonald's", 'http://www.wikidata.org/entity/Q38076'}	OK
+77 ['Erie'] {'http://dbpedia.org/resource/Lake_Erie', 'http://yago-knowledge.org/resource/Erie,_Pennsylvania', 'http://www.wikidata.org/entity/Q5492', 'http://www.wikidata.org/entity/Q5388259'}	OK
+78 ['Pennsylvania', 'State', 'Police'] {'http://yago-knowledge.org/resource/Pennsylvania_State_Police', 'http://www.wikidata.org/entity/Q10348331'}	OK_ALL
+79 ['Robert', 'Godwin'] {'http://www.wikidata.org/entity/Q15453421', 'http://yago-knowledge.org/resource/Robert_Godwin', 'http://dbpedia.org/resource/Robert_Godwin'}	NOT_OK
+80 ['Cleveland', 'Police'] {'http://yago-knowledge.org/resource/Cleveland_Police', 'http://www.wikidata.org/entity/Q5132210'}	OK_ALL
+81 ['Calvin', 'Williams'] {'http://yago-knowledge.org/resource/Calvin_Williams', 'http://www.wikidata.org/entity/Q5024533', 'http://dbpedia.org/resource/Calvin_Williams'}	NOT_OK
+82 ['Brenda', 'Haymon'] set()	OK
+83 ['Thomas', 'DuCharme', 'Jr.'] set()	OK
+84 ['Harborcreek', 'Township'] {'http://www.wikidata.org/entity/Q5654713', 'http://yago-knowledge.org/resource/Harborcreek_Township,_Erie_County,_Pennsylvania', 'http://dbpedia.org/resource/Harborcreek_Township,_Erie_County,_Pennsylvania'}	OK_ALL
+85 ['National', 'Front'] {'http://www.wikidata.org/entity/Q6972803', 'http://www.wikidata.org/entity/Q205150', 'http://dbpedia.org/resource/National_Front_(France)', 'http://yago-knowledge.org/resource/National_Front_(France)'}	OK
+86 ['Marine', 'Le', 'Pen'] {'http://www.wikidata.org/entity/Q12927', 'http://dbpedia.org/resource/Marine_Le_Pen', 'http://yago-knowledge.org/resource/Marine_Le_Pen'}	OK_ALL
+87 ['Emmanuel', 'Macron'] {'http://dbpedia.org/resource/Emmanuel_Macron', 'http://www.wikidata.org/entity/Q3052772', 'http://yago-knowledge.org/resource/fr/Emmanuel_Macron'}	OK_ALL
+88 ['Jean-Luc', 'Mélenchon'] {'http://www.wikidata.org/entity/Q5829'}	OK_ALL
+89 ['Zenith'] {'http://www.wikidata.org/entity/Q189601', 'http://www.wikidata.org/entity/Q5978240', 'http://yago-knowledge.org/resource/Zenith_(watchmaker)', 'http://dbpedia.org/resource/Zenith_Bank'}	NOT_OK
+90 ['Schengen'] {'http://dbpedia.org/resource/Schengen,_Luxembourg', 'http://www.wikidata.org/entity/Q183841', 'http://yago-knowledge.org/resource/Schengen'}	NOT_OK
+91 ['Napoleon'] {'http://yago-knowledge.org/resource/Napoleon', 'http://www.wikidata.org/entity/Q2394507', 'http://dbpedia.org/resource/Napoleon', 'http://www.wikidata.org/entity/Q517'}	OK
+92 ['Bercy', 'arena'] set()	OK
+93 ['Paris'] {'http://www.wikidata.org/entity/Q7137164', 'http://yago-knowledge.org/resource/Paris', 'http://dbpedia.org/resource/Paris', 'http://www.wikidata.org/entity/Q90'}	OK
+94 ['North', 'Korea'] {'http://dbpedia.org/resource/North_Korea', 'http://yago-knowledge.org/resource/North_Korea', 'http://www.wikidata.org/entity/Q423'}	OK_ALL
+95 ['Pyongyang'] {'http://www.wikidata.org/entity/Q18808', 'http://yago-knowledge.org/resource/Pyongyang', 'http://dbpedia.org/resource/Pyongyang'}	OK_ALL
+96 ['Beijing'] {'http://yago-knowledge.org/resource/Beijing', 'http://dbpedia.org/resource/Beijing', 'http://www.wikidata.org/entity/Q956'}	OK_ALL
+97 ['China'] {'http://dbpedia.org/resource/China', 'http://yago-knowledge.org/resource/China', 'http://www.wikidata.org/entity/Q942154', 'http://www.wikidata.org/entity/Q148'}	OK
+98 ['THAAD'] set()	OK
+99 ['Xi', 'Jinping'] {'http://yago-knowledge.org/resource/Xi_Jinping', 'http://www.wikidata.org/entity/Q15031', 'http://dbpedia.org/resource/Xi_Jinping'}	OK_ALL

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:schema="http://schema.org/"
+>
+  <rdf:Description rdf:about="http://yago-knowledge.org/resource/James_Comey">
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <schema:colleague rdf:resource="http://yago-knowledge.org/resource/Donald_Trump"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://yago-knowledge.org/resource/Donald_Trump">
+    <schema:colleague rdf:resource="http://yago-knowledge.org/resource/James_Comey"/>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+  </rdf:Description>
+</rdf:RDF>

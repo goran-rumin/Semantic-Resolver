@@ -1,0 +1,64 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Semantic Resolver</title>
+    <style>
+      body {
+		min-width:780px;
+      }
+	  .row-wide {
+		margin-top:15px; 
+		margin-bottom:15px;
+	  }
+	  .condensed {
+		padding: 0px;
+		margin: 5px;
+	  }
+    </style>
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+	<script src="js/jquery-3.2.1.min.js"></script>
+	<script src="js/bootstrap.min.js"></script>
+    <script src="popup.js"></script>
+  </head>
+  <body>
+	<div id="result" class="container">
+		<div class="row">
+			<div class="col-sm-11 inline-headers">
+				<h2><span class="label label-primary" style="margin: 0px">Semantic Resolver</span>
+				<small>Help expand open knowledge.</small></h2>
+			</div>
+			<div class="col-sm-1"><span style="font-size: 3em; margin-top: 15px;" class="glyphicon glyphicon-question-sign text-primary" 
+				data-toggle="popover" data-trigger="hover" data-placement="left" data-content="Determine the thruthfulness of sentences. Both entities must refer to respective entity mentioned in text and their relation must be correct for sentence to be correct."></span></div>
+		</div>
+		<hr/>
+		<div class="row">
+			<div class="col-sm-12">
+				<button id="loadmore" type="button" class="btn btn-default" style="margin-top: 10px">Show more</button>
+			</div>
+		</div>
+	</div>
+	<div id="article-prefab" class="row">
+		<div class="col-sm-12">
+			<div class="panel panel-primary panel-body condensed">
+				<div class="row">
+					<div class="col-sm-10 article"></div>
+					<div class="col-sm-2"><button type="button" class="btn btn-primary btn-sm done" style="margin-top: 20px; margin-left: 10px">Done</button></div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div id="relation-prefab" class="row relation panel panel-default panel-body">
+		<div class="col-sm-10">
+			<p class="sentence condensed"></p>
+		</div>
+		<div class="col-sm-1">
+			<button type="button" class="btn btn-success btn-sm agree">True</button>
+		</div>
+		<div class="col-sm-1">
+			<button type="button" class="btn btn-danger btn-sm disagree">False</button>
+		</div>
+	</div>
+	<br/>
+  </body>
+</html>
+

@@ -1,0 +1,48 @@
+{
+  "manifest_version": 2,
+  "name": "Semantic Resolver",
+  "description": "This extension parses choosen news web-sites and shows you semantic relations for approval.",
+  "author": "Goran Rumin", 
+  "version": "1.0",
+
+  "page_action": {
+    "default_icon": "icon.png",
+	"default_title": "Semantic Resolver",
+    "default_popup": "popup.html"
+  },
+  "background": {
+    "scripts": ["js/jquery-3.2.1.min.js", "background.js"],
+    "persistent": false
+  },
+  "permissions": [
+    "activeTab",
+	"tabs",
+	"notifications",
+	"declarativeContent",
+	"storage",
+	"*://www.wikidata.org/*",
+    "http://localhost:8080/"
+  ],
+  "content_scripts": [
+	{
+      "matches": ["http://edition.cnn.com/*"],
+      "js": ["js/jquery-3.2.1.min.js", "content_extraction_cnn.js"]
+    },
+	{
+      "matches": ["http://*.bbc.com/*"],
+      "js": ["js/jquery-3.2.1.min.js", "content_extraction_bbc.js"]
+    },
+	{
+      "matches": ["http://*.huffingtonpost.com/*"],
+      "js": ["js/jquery-3.2.1.min.js", "content_extraction_huffpost.js"]
+    },
+	{
+      "matches": ["https://*.nytimes.com/*"],
+      "js": ["js/jquery-3.2.1.min.js", "content_extraction_nytimes.js"]
+    },
+	{
+      "matches": ["https://*.theguardian.com/*"],
+      "js": ["js/jquery-3.2.1.min.js", "content_extraction_guardian.js"]
+    }
+   ]
+}
