@@ -33,7 +33,7 @@ def find_relations():
 
 
 @post('/relations/<id>/agree')
-def save_relations(id=None):
+def agree_relation(id=None):
     if id is None:
         return HTTPResponse(status=400)
     try:
@@ -44,7 +44,7 @@ def save_relations(id=None):
 
 
 @post('/relations/<id>/disagree')
-def save_relations(id=None):
+def disagree_relation(id=None):
     if id is None:
         return HTTPResponse(status=400)
     try:
