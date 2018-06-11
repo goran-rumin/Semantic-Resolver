@@ -4,7 +4,9 @@
   "description": "This extension parses choosen news web-sites and shows you semantic relations for approval.",
   "author": "Goran Rumin", 
   "version": "1.0",
-
+  "icons": { 
+	"128": "icon.png" 
+  },
   "page_action": {
     "default_icon": "icon.png",
 	"default_title": "Semantic Resolver",
@@ -15,7 +17,6 @@
     "persistent": false
   },
   "permissions": [
-    "activeTab",
 	"tabs",
 	"notifications",
 	"declarativeContent",

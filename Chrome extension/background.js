@@ -51,7 +51,7 @@ chrome.runtime.onMessage.addListener(
 );
 
 function showNotification(message){
-	chrome.notifications.create({type: "basic", iconUrl: "icon.png", title: 'SemanticResolver', message: message})
+	chrome.notifications.create({type: "basic", iconUrl: "icon_notification.png", title: 'Semantic Resolver', message: message})
 }
 
 function getRelations(){
